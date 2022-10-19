@@ -18,7 +18,7 @@ se ingresa nuevo curso con POST
 ![App Screenshot](https://github.com/ariescacy9/express_crud/blob/main/img/crearCurso.JPG?raw=true)
 
 se actualiza el nombre del curso algebra por id con PUT
-![App Screenshot](https://github.com/ariescacy9/express_crud/blob/main/img/actualizadoCurso.JPG?raw=true)
+![App Screenshot](https://github.com/ariescacy9/express_crud/blob/main/img/actualizandoCurso.JPG?raw=true)
 
 se elimina un curso por id con DELETE
 ![App Screenshot](https://github.com/ariescacy9/express_crud/blob/main/img/eliminarCurso.JPG?raw=true)
