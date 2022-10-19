@@ -12,7 +12,6 @@ export const getCurses = async (req, res) => {
 }
 
 //get schools por Id:
-
 export const getCurseById = async (req, res) => {
   try {
     const curse = await Curse.findByPk(req.params.id);
