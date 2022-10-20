@@ -3,7 +3,10 @@
 
 - se hace la coneccion con una base de datos hecha en postgres y SBeaver
 - se instala express sequalize cors pg con npm
+- se instala nodemon 
+- se instala npm i dotenv -D  para usar variables de entorno para la conexion
 - se crea el modelo y controlador para cada tabla
+
 
 - se muestra la base la tabla cursos inicial
 ![App Screenshot](https://github.com/ariescacy9/express_crud/blob/main/img/tablaCursos.JPG?raw=true)
