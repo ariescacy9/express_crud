@@ -5,6 +5,9 @@
 - se instala express sequalize cors pg con npm
 - se instala nodemon 
 - se instala npm i dotenv -D  para usar variables de entorno para la conexion
+
+crear el archivo .env y poner las variables similares al archivo .env_sample
+
 - se crea el modelo y controlador para cada tabla
 
 
